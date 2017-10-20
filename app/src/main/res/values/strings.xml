@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CoderProprement</string>
+    <string name="connect">Connect</string>
+    <string name="device_paired">Device paired</string>
+    <string name="detail">Detail</string>
+
+    <string name="rate">Rate</string>
 </resources>
