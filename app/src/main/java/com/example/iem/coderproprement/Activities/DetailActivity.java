@@ -1,7 +1,9 @@
-package com.example.iem.coderproprement;
+package com.example.iem.coderproprement.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.iem.coderproprement.R;
 
 public class DetailActivity extends AppCompatActivity {
 
